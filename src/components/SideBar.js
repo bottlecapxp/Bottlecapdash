@@ -4,7 +4,7 @@ import '../styles/Sidebar.scss'
 import Hand from '../assets/hand.png'
 
 /**
-* @author
+* @author Decory Herbert
 * @function SideBar
 **/
 

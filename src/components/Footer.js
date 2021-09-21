@@ -4,7 +4,7 @@ import CsvDownload from 'react-json-to-csv'
 
 
 /**
-* @author
+* @author Decory Herbert
 * @function Footer
 **/
 

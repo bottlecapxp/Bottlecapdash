@@ -3,7 +3,7 @@ import '../styles/Card.scss'
 import Loading from '../assets/load.gif'
 
 /**
-* @author
+* @author Decory Herbert
 * @function Cards
 **/
 

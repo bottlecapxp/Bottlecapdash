@@ -6,7 +6,7 @@ import SideBar from '../components/SideBar'
 import '../styles/Main.scss'
 
 /**
-* @author
+* @author Decory Herbert
 * @function Home
 **/
 
@@ -96,26 +96,3 @@ const Home = (props) => {
  }
 
 export default Home
-
-                                               // <tr>
-                            // <td>{data.name}</td>
-                            {/* <td>{data.address}</td>
-                            <td>{data.province}</td>
-                            <td>{data.email}</td>
-                            <td>{data.tel}</td>
-                            <td>{data.points}</td>
-                            <td>{data.prize}</td>
-                            <td>{data.ballots}</td> */}
-                            {/* </tr> */}
-
-                            <tr>
-                            {/* <td key={data.id}>{data.name}</td> */}
-                            
-                            {/* <td key={data.id}>{data.address}</td>
-                            <td key={data.id}>{data.province}</td>
-                            <td key={data.id}>{data.email}</td>
-                            <td key={data.id}>{data.tel}</td>
-                            <td key={data.id}>{data.points}</td>
-                            <td key={data.id}>{data.prize}</td>
-                            <td key={data.id}>{data.ballots}</td> */}
-                            </tr>

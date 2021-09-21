@@ -2,7 +2,7 @@ import React from 'react'
 import '../styles/Header.scss'
 
 /**
-* @author
+* @author Decory Herbert
 * @function Header
 **/
 
