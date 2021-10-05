@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Bottlecapdash/static/css/main.41b371c8.chunk.css",
-    "main.js": "/Bottlecapdash/static/js/main.ae51d52b.chunk.js",
-    "main.js.map": "/Bottlecapdash/static/js/main.ae51d52b.chunk.js.map",
+    "main.css": "/Bottlecapdash/static/css/main.fadbab7d.chunk.css",
+    "main.js": "/Bottlecapdash/static/js/main.051824bc.chunk.js",
+    "main.js.map": "/Bottlecapdash/static/js/main.051824bc.chunk.js.map",
     "runtime-main.js": "/Bottlecapdash/static/js/runtime-main.a3bbcc1d.js",
     "runtime-main.js.map": "/Bottlecapdash/static/js/runtime-main.a3bbcc1d.js.map",
     "static/js/2.9aa85855.chunk.js": "/Bottlecapdash/static/js/2.9aa85855.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.74fc30b4.chunk.js": "/Bottlecapdash/static/js/3.74fc30b4.chunk.js",
     "static/js/3.74fc30b4.chunk.js.map": "/Bottlecapdash/static/js/3.74fc30b4.chunk.js.map",
     "index.html": "/Bottlecapdash/index.html",
-    "static/css/main.41b371c8.chunk.css.map": "/Bottlecapdash/static/css/main.41b371c8.chunk.css.map",
+    "static/css/main.fadbab7d.chunk.css.map": "/Bottlecapdash/static/css/main.fadbab7d.chunk.css.map",
     "static/js/2.9aa85855.chunk.js.LICENSE.txt": "/Bottlecapdash/static/js/2.9aa85855.chunk.js.LICENSE.txt",
     "static/media/BottleCap_Logo.4b835454.svg": "/Bottlecapdash/static/media/BottleCap_Logo.4b835454.svg",
     "static/media/hand.d4a009a2.png": "/Bottlecapdash/static/media/hand.d4a009a2.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.a3bbcc1d.js",
     "static/js/2.9aa85855.chunk.js",
-    "static/css/main.41b371c8.chunk.css",
-    "static/js/main.ae51d52b.chunk.js"
+    "static/css/main.fadbab7d.chunk.css",
+    "static/js/main.051824bc.chunk.js"
   ]
 }
